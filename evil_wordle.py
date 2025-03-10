@@ -2,7 +2,7 @@
 Student information for this assignment:
 
 Replace Karen Ngu with your name.
-On my/our honor, <FULL NAME> and <FULL NAME>, this
+On my/our honor, Karen Ngu, this
 programming assignment is my own work and I have not provided this code to
 any other student.
 
@@ -13,7 +13,7 @@ code to someone else), the case shall be submitted to the Office of the Dean of
 Students. Academic penalties up to and including an F in the course are likely.
 
 UT EID 1: KN9995
-UT EID 2:
+UT EID 2: NONE
 """
 
 import random
